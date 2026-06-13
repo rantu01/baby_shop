@@ -449,8 +449,8 @@ This project is built for **Baby Shop Ltd. & SNS** — an enterprise ERP solutio
   <br/>
   <p>
     Built with ❤️ by <strong>Rantu_Dev</strong> ·
-    <a href="mailto:jahangir@taskco.io">Contact</a> ·
-    <a href="https://taskco.io">taskco.io</a>
+    <a href="rantumondal06@gmail.com">Contact</a>
+    <a href="https://wa.me/YOUR_PHONE_NUMBER?text=hi%20Rantu_Dev" target="_blank">whatsapp</a>
   </p>
   <p>
     <em>Next.js 15 · React 19 · TailwindCSS v4 · MongoDB · AI-Powered</em>
