@@ -448,7 +448,7 @@ This project is built for **Baby Shop Ltd. & SNS** — an enterprise ERP solutio
 <div align="center">
   <br/>
   <p>
-    Built with ❤️ by <strong>Taskco Digital</strong> ·
+    Built with ❤️ by <strong>Rantu_Dev</strong> ·
     <a href="mailto:jahangir@taskco.io">Contact</a> ·
     <a href="https://taskco.io">taskco.io</a>
   </p>
